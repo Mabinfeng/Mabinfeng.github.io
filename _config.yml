@@ -1,1 +1,3 @@
-
+nav:
+  - Home: index.html
+  - About: README.md
