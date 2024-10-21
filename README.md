@@ -1,4 +1,4 @@
-<image = Music history1.xmind>
+<image = Music history1.jpg>
 </image>
-<image = Music history.pdf>
+<image = Music history.jpg>
 </image>
